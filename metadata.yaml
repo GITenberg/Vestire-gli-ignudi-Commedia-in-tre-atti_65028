@@ -1,0 +1,27 @@
+_repo: Vestire-gli-ignudi-Commedia-in-tre-atti_65028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pirandello, Luigi
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '8041'
+    url: http://www.gutenberg.org/2009/agents/8041
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Luigi_Pirandello
+    - https://it.wikipedia.org/wiki/Luigi_Pirandello
+description: ''
+gutenberg_issued: '2021-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65028'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vestire gli ignudi
+
+  Commedia in tre atti'
+url: http://www.gutenberg.org/ebooks/65028
